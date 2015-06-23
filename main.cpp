@@ -1,6 +1,5 @@
-// LMS-spec~ - spectral envelope estimation via LMS filtering
-//           - enables cross-synthesis by using obtained spectral estimate
-//             as filter frequency response
+// allpass-cascade~ - implements power preserving matrix allpass cascades
+// as a pd object
 //
 // (c) 2014 greg surges
 // surgesg@gmail.com
